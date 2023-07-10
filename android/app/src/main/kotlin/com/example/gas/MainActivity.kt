@@ -1,4 +1,4 @@
-package com.example.gas
+package com.example.ricoz
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,5 +1,6 @@
-import 'package:gas/app/homepage/controller/homepage_controller.dart';
 import 'package:get/get.dart';
+
+import '../controller/homepage_controller.dart';
 
 class HomepageBinding implements Bindings {
   @override

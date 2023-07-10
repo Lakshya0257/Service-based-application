@@ -1,6 +1,6 @@
 // ignore_for_file: non_constant_identifier_names, must_be_immutable
 import 'package:flutter/material.dart';
-import 'package:gas/widgets/big_text.dart';
+import 'package:ricoz/widgets/big_text.dart';
 import '../utils/colors.dart';
 import '../utils/dimensions.dart';
 
